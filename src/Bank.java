@@ -1,4 +1,4 @@
-package singleton;
+package src;
 
 public class Bank {
 

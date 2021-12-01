@@ -1,4 +1,6 @@
-import singleton.Bank;
+package src;
+
+import src.Singleton;
 
 public class Transactions {
 

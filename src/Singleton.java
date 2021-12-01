@@ -1,4 +1,4 @@
-import singleton.Bank;
+package src;
 
 public class Singleton {
 
